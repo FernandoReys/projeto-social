@@ -17,7 +17,7 @@ htlml, body {
 
 body {
     background: url('../imagens/fundo-madeira.jpg') no-repeat top center; 
-    block-size: cover;
+    block-size:cover;
     background-attachment: fixed;
 }
 
